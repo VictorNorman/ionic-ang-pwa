@@ -148,4 +148,3 @@ Hosting URL: https://vtn2-pwa-ionic.web.app
 
 7. On my Android phone start Chrome browser and go to the URL above. It does not recognize the
    page as a PWA and offer to install it.
-# ionic-ang-pwa
